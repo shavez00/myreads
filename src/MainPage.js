@@ -2,9 +2,10 @@ import React, { Component } from 'react';
 
 import Book from './Book';
 
+
 class MainPage extends Component {
   render() {
-    return (
+        return (
         <div className="list-books">
         <div className="list-books-title">
           <h1>MyReads</h1>
