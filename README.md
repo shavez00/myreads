@@ -9,7 +9,8 @@ Step 2.  If you don't have NPM installed, [install npm](https://www.npmjs.com/ge
 Step 3.  Verify your npm installation by running the command "npm -V" from your command line.  You should get a response with your version of NPM, if not, doublecheck step 2.</br>
 Step 4.  Navigate to the root directory of where you cloned the repository.</br>
 Step 5.  Run the npm command "npm install" to install React and the app.</br>
-Step 6.  Launch web browser and nagivate to "http://localhost:3000"</br>
+Step 6.  Run the npm command "npm install react-router-dom" to install the React Router.</br>
+Step 6.  Run the npm command "npm start" a browser should launch to the URL "http://localhost:3000" and bring up the bookshelf.
 Step 7.  Enjoy!</br>
 
 ### Using the book shelves
